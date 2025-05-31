@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1745262745 source:c:\users\kingstar\desktop\text_detection\text_detection\main.cpp
+	<opencv2/opencv.hpp>
+	<iostream>
+
